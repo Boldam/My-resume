@@ -1,2 +1,4 @@
 # My-resume
-First practical project using only HTML
+A multi page resume website project
+Final practical project using only HTML
+proceeding to CSS next
